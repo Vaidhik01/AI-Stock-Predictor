@@ -381,10 +381,6 @@ if st.button("💡 Get Investment Plan"):
 
 st.divider()
 
-st.divider()
-
-st.divider()
-
 # -------------------------------
 # 📊 SIP CALCULATOR
 # -------------------------------
